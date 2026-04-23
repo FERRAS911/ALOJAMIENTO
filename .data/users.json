@@ -6,4 +6,11 @@
     "lastConnection": "2026-04-23T02:47:17.916Z",
     "device": "Sistema"
   }
+    {
+    "username": "Halo",
+    "password": "Bill21",
+    "isAdmin": false,
+    "lastConnection": "",
+    "device": ""
+  }
 ]
